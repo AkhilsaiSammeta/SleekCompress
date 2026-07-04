@@ -41,7 +41,7 @@ jobs:
 
       - name: Build Application
         env:
-          BASE_URL: /SleekCompress/
+          BASE_URL: /
         run: npm run build
 
       - name: Setup Pages
