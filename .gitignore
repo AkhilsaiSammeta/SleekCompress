@@ -16,3 +16,4 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+/sleekCompress.md
